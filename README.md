@@ -26,3 +26,6 @@ Sentinel VPN follows a clean architecture pattern, promoting code separation and
 
 Dark Mode
 Protect your eyes and save battery life with our Dark Mode feature, providing a sleek and comfortable user interface at night.
+
+
+This README template provides an overview of the features and technology used in your Sentinel VPN application. Make sure to customize it with your specific details, such as logo, contact information, and licensing terms. Additionally, you may want to include sections on installation instructions, usage guides, and troubleshooting tips to make it even more helpful to your users.
